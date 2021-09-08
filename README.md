@@ -1,2 +1,2 @@
-# portfolio.github.io
+# surajzaware.github.io
 Suraj Zaware's Portfolio website .
